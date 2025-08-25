@@ -275,7 +275,7 @@ CMD ["npm", "run", "start"]
    ```
 
 - Build image:  
-  ![Final Task Build Image](https://github.com/user-attachments/assets/f5197213-71d5-4605-a075-a7a4b1465a18")
+  ![Final Task Build Image](https://github.com/user-attachments/assets/f5197213-71d5-4605-a075-a7a4b1465a18)
 
 2. Run the container:
 
